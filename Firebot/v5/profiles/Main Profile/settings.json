@@ -1,0 +1,39 @@
+{
+    "settings": {
+        "lastBackupDate": "2022-07-20T12:10:31.251Z",
+        "legacySortTagsImported": true,
+        "firstTimeUse": false,
+        "viewerDB": true,
+        "dashboard": {
+            "layout": {
+                "dashboardViewerList": "225px",
+                "dashboardChatWindow": "100%",
+                "dashboardActivityFeed": "275px"
+            }
+        },
+        "quickActions": {
+            "firebot:give-currency": {
+                "enabled": true,
+                "position": 0
+            },
+            "firebot:stream-info": {
+                "enabled": true,
+                "position": 1
+            },
+            "firebot:stream-preview": {
+                "enabled": true,
+                "position": 2
+            }
+        },
+        "theme": "Midnight",
+        "minimizeToTray": true,
+        "sounds": "Off",
+        "audioOutputDevice": {
+            "label": "Send To Overlay",
+            "deviceId": "overlay"
+        },
+        "sidebarControlledServices": [
+            "chat"
+        ]
+    }
+}

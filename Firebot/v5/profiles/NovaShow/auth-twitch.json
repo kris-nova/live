@@ -1,0 +1,43 @@
+{
+    "streamer": {
+        "username": "krisnova",
+        "displayName": "KrisNova",
+        "channelId": "108589908",
+        "userId": "108589908",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/73a3c29b-46d7-49e0-81e8-65e974a5b2a6-profile_image-300x300.png",
+        "broadcasterType": "affiliate",
+        "auth": {
+            "access_token": "thwhvw5uqrsiqy7dr3ibm11f65do5w",
+            "expires_in": 15033,
+            "refresh_token": "phl7xl8ok2mqb57trk774w48bigq4o1r7po197u0guxojgf8ie",
+            "scope": [
+                "bits:read",
+                "channel:edit:commercial",
+                "channel:manage:redemptions",
+                "channel:moderate",
+                "channel:read:hype_train",
+                "channel:read:redemptions",
+                "channel:read:subscriptions",
+                "channel_commercial",
+                "channel_editor",
+                "channel_read",
+                "channel_subscriptions",
+                "chat:edit",
+                "chat:read",
+                "clips:edit",
+                "moderation:read",
+                "user:edit:broadcast",
+                "user:manage:blocked_users",
+                "user:read:broadcast",
+                "user_follows_edit",
+                "user_read",
+                "user_subscriptions",
+                "whispers:edit",
+                "whispers:read"
+            ],
+            "token_type": "bearer",
+            "expires_at": "2022-07-20T16:25:37.177Z"
+        },
+        "loggedIn": true
+    }
+}

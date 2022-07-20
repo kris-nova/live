@@ -1,0 +1,9 @@
+{
+    "profiles": {
+        "activeProfiles": [
+            "Main Profile",
+            "NovaShow"
+        ],
+        "loggedInProfile": "NovaShow"
+    }
+}

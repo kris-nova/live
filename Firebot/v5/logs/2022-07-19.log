@@ -1,0 +1,16 @@
+01:20:49 GMT-0400 (Eastern Daylight Time) - error: [v5.52.0] Chat disconnected unexpectedly
+01:21:19 GMT-0400 (Eastern Daylight Time) - error: [v5.52.0] Chat disconnected unexpectedly 
+{
+  message: '[1006] ',
+  stack: 'Error: [1006] \n' +
+    '    at WebSocket._this._socket.onclose (/opt/firebot-v5.52.0/resources/app.asar/node_modules/@d-fischer/connection/lib/WebSocketConnection.js:73:51)\n' +
+    '    at WebSocket.onClose (/opt/firebot-v5.52.0/resources/app.asar/node_modules/ws/lib/event-target.js:210:18)\n' +
+    '    at WebSocket.emit (events.js:315:20)\n' +
+    '    at WebSocket.emitClose (/opt/firebot-v5.52.0/resources/app.asar/node_modules/ws/lib/websocket.js:247:10)\n' +
+    '    at Receiver.receiverOnFinish (/opt/firebot-v5.52.0/resources/app.asar/node_modules/ws/lib/websocket.js:1011:20)\n' +
+    '    at Receiver.emit (events.js:315:20)\n' +
+    '    at finish (internal/streams/writable.js:657:10)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:80:21)'
+}
+01:24:17 GMT-0400 (Eastern Daylight Time) - info: [v5.52.0] Backup manualActivation: false
+01:24:17 GMT-0400 (Eastern Daylight Time) - info: [v5.52.0] deleting old backup: backup_1657107011773_v5.52.0.zip
